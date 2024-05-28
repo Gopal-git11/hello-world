@@ -7,3 +7,4 @@ it is to show github has a good editor too.
 pull is combination of fetch and merge. 
 so, if you want to merge directly, then use git pull
 only if you want to see what is the diff then use fetch first and git diff, git log etc.
+added this line to demo push a branch to github
